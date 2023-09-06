@@ -47,7 +47,7 @@ paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2003
+  since: 2023
 
 # Markdown
 markdown: kramdown

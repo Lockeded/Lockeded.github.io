@@ -1,3 +1,4 @@
+---
 layout: post
 title: 'Hi 欢迎来到我的主页'
 date: 2023-9-6
@@ -5,6 +6,7 @@ author: Locked
 color: rgb(255,210,32)
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: Welcome
+---
 
 > Transform your plain text into tatic websites and blogs.
 
@@ -27,3 +29,4 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 ### Video Test
 
 <iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></ifram
+

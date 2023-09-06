@@ -17,28 +17,29 @@ author: true
 name: 'Locked'
 NickName: 'your awesome nickname'
 webtitle: 'Locked的主页~'
-bio: 'your awesome bio'
+bio: '一个机制的人'
 about: true
-aboutyou: '一个机制的人'
+#aboutyou: '一个机制的人'
 portraits: '/assets/haibara.png' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  #mail: 'mailto:abc@gmail.com'
+  weixin: '/assets/wechatqrcode.png' # 你的微信二维码存放的地址
+  qq: '/assets/qqqrcode.png' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: ''
-  Codepen: ''
-  weibo: ''
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+  bilibili: ''
+  #Codepen: ''
+  #weibo: ''
+  #instagram: ''
+  #Twitter: ''
+  #Dribbble: ''
+  #Facebook: ''
+  #Google: ''
+  #zhihu: ''
+  #juejin: ''
+  #twitch: ''
 
 # 分页
 paginate: 2

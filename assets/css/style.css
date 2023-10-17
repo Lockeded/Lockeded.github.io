@@ -203,7 +203,7 @@ a{
 }
 .post-cover{
   height: 300px;
-  width: 500px;
+  width: 96%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   margin: 15px 2%;

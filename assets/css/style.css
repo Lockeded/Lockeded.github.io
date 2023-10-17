@@ -4,7 +4,7 @@ html,body,ul,li,div,header,nav,main,footer{
 }
 html{
     background-image: url(/assets/bak.svg);
-    /*background-size: 100%;*/
+    background-size:contain;
     background-position: center;
     /*background-color: white;*/
     font-family: Ubuntu;
